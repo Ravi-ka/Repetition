@@ -1,0 +1,4 @@
+{"level":"error","message":"\"timestamp\": Fri Dec 08 2023 11:35:58 GMT+0530 (India Standard Time), \"request URL\":/test-custom-error, \"error message\":testing app level custom error handling middleware"}
+{"level":"error","message":"\"timestamp\": Fri Dec 08 2023 11:36:23 GMT+0530 (India Standard Time), \"request URL\":undefined, \"error message\":\"Oops! Something went wrong... Please try again later!\""}
+{"level":"error","message":"\"timestamp\": Fri Dec 08 2023 11:36:42 GMT+0530 (India Standard Time), \"request URL\":/test-unhandled-error, \"error message\":\"Oops! Something went wrong... Please try again later!\""}
+{"level":"error","message":"\"timestamp\": Fri Dec 08 2023 11:37:01 GMT+0530 (India Standard Time), \"request URL\":/test-unhandled-error, \"error message\":\"Oops! Something went wrong... Please try again later!\""}
